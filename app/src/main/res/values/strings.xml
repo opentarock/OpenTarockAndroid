@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenTarock</string>
+    <string name="title_activity_main">Main</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="authenticator_label">OpenTarock</string>
+
+    <string name="account_type">com.opentarock.ACCOUNT</string>
+    <string name="pref_default_account">default_account</string>
+    <string name="preference_file_accounts">accounts</string>
+</resources>
